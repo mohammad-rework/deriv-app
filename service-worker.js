@@ -149,10 +149,10 @@ define("./service-worker.js",['./workbox-9fa588b0'], (function (workbox) { 'use 
     "url": "/js/core.account.d6115a2b4a5eb2cd850e.js",
     "revision": null
   }, {
-    "url": "/js/core.bot.ea9b6c2956c4179067fb.js",
+    "url": "/js/core.bot.f5ebc8ed183b5d54fadc.js",
     "revision": null
   }, {
-    "url": "/js/core.cashier.e2452fb9d6e3b2df935c.js",
+    "url": "/js/core.cashier.a06e81c96d66c461acbe.js",
     "revision": null
   }, {
     "url": "/js/core.close-mx-account-modal.b13689287d7fa35c6647.js",
@@ -227,7 +227,7 @@ define("./service-worker.js",['./workbox-9fa588b0'], (function (workbox) { 'use 
     "url": "/js/core.main~components_src_components_l.fbb85e18cb8d20cffc54.js",
     "revision": null
   }, {
-    "url": "/js/core.main~s.a84a6ebba309330811c3.js",
+    "url": "/js/core.main~s.9d57b49a1a59be0e4f2c.js",
     "revision": null
   }, {
     "url": "/js/core.reality-check-modal.8044bad13a05cbf9cb7e.js",
@@ -326,28 +326,28 @@ define("./service-worker.js",['./workbox-9fa588b0'], (function (workbox) { 'use 
     "url": "/js/core.vendors-node_modules_scroll-smooth_dist_index_js-node_modules_scrollparent_scrollparent_js-no-e650d6.a1e2d3c88cc53cf8e298.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Ap.09d2d33e0188f5f53d60.js",
+    "url": "/js/core.welcome-modal~Ap.e9a7decd0b238676e02c.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_cfds_svg_af25ac66.f5ae4bce4b6e7a30efdb.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_cfds_svg_af25ac66.e29ee53b436bc6c8b37a.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_digital-options-mobile_svg_a765406b.183a67b6aa6cec801c56.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_digital-options-mobile_svg_a765406b.3a43cca7341ae642c482.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_digital-options_svg_6a6a8cad.c437c56a6f6ff6d841bb.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_digital-options_svg_6a6a8cad.a45e78a41c690500ae45.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_multipliers-mobile_svg_48db1f53.41820f31f50e1ccc7849.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_multipliers-mobile_svg_48db1f53.f75e3fb38cb27a1776dc.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_multipliers_svg_67df4c4b.848e7fa7dee65b5616b1.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_multipliers_svg_67df4c4b.6c04157ffa6b8ea8b923.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_not-sure-mobile_svg_9ad91f0b.541a0fefc44e187ee1ee.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_not-sure-mobile_svg_9ad91f0b.bfdf67f10283b2247a6a.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_not-sure_svg_a469acfa.cb2f5ac67d91008a4c45.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_not-sure_svg_a469acfa.c11f00c4c55e131e489a.js",
     "revision": null
   }, {
     "url": "/public/images/app/header/dbot-logo.svg",
