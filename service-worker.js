@@ -149,10 +149,10 @@ define("./service-worker.js",['./workbox-9fa588b0'], (function (workbox) { 'use 
     "url": "/js/core.account.d6115a2b4a5eb2cd850e.js",
     "revision": null
   }, {
-    "url": "/js/core.bot.f9aa8ec4694ef3bc41c0.js",
+    "url": "/js/core.bot.ea9b6c2956c4179067fb.js",
     "revision": null
   }, {
-    "url": "/js/core.cashier.7342155110d087c90c26.js",
+    "url": "/js/core.cashier.e2452fb9d6e3b2df935c.js",
     "revision": null
   }, {
     "url": "/js/core.close-mx-account-modal.b13689287d7fa35c6647.js",
@@ -227,7 +227,7 @@ define("./service-worker.js",['./workbox-9fa588b0'], (function (workbox) { 'use 
     "url": "/js/core.main~components_src_components_l.fbb85e18cb8d20cffc54.js",
     "revision": null
   }, {
-    "url": "/js/core.main~s.5ddc60101158f535a9b1.js",
+    "url": "/js/core.main~s.a84a6ebba309330811c3.js",
     "revision": null
   }, {
     "url": "/js/core.reality-check-modal.8044bad13a05cbf9cb7e.js",
